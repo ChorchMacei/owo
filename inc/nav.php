@@ -1,17 +1,17 @@
   <div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" data-no-scroll="1" role="banner" class="navbar-no-shadow-container w-nav">
     <div class="container-regular">
       <div class="navbar-wrapper">
-        <a href="index.html" aria-current="page" class="navbar-brand w-nav-brand w--current"><img src="images/Logo-OWO.png" loading="lazy" alt="logo de owo violeta" class="image-75"></a>
+        <a href="index.php" aria-current="page" class="navbar-brand w-nav-brand w--current"><img src="images/Logo-OWO.png" loading="lazy" alt="logo de owo violeta" class="image-75"></a>
         <nav role="navigation" class="nav-menu-wrapper w-nav-menu">
           <ul role="list" class="nav-menu w-list-unstyled">
             <li class="list-item-2">
               <div data-hover="true" data-delay="0" class="despliega w-dropdown">
                 <div class="nav-link w-dropdown-toggle">
                   <div class="icon w-icon-dropdown-toggle"></div>
-                  <div class="text-block-4">Servicios</div>
+                  <div class="text-block-4">Productos</div>
                 </div>
                 <nav class="dropdown-list w-dropdown-list">
-                  <a href="recargas.html" class="abre w-dropdown-link">Recargas</a>
+                  <a href="recargas.php" class="abre w-dropdown-link">Recargas a celular<br>y/u operadores móviles</a>
                   <a href="chance.html" class="abre w-dropdown-link">Chance</a>
                   <a href="apuestas-deportivas.html" class="abre w-dropdown-link">Apuestas Deportivas</a>
                   <a href="recaudo.html" class="abre w-dropdown-link">Recaudos</a>

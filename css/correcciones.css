@@ -15,6 +15,10 @@ body {position: relative;}
 	visibility: hidden!important;
 }
 
+.parrafo-top {
+    width: 63%!important;
+}
+
 @media screen and (min-width: 1440px) {
     .image {
         top: 1%!important;
@@ -75,4 +79,9 @@ body {position: relative;}
     }	
 }
 
-
+@media (max-width: 1170px) and (min-width: 991px) {
+    /* Tus estilos aquí */
+    .image-9 {
+        margin-top: -127px;
+    }
+}

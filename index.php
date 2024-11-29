@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
+<!-- No borrar la línea de abajo, los ID's accionan las animaciones on Page Load -->
 <html data-wf-page="66df17562688b6d820491c45" data-wf-site="66df17562688b6d820491c3e">
 <?php $titulo='Owo Home'; ?>
 <?php if ( ! @include( 'inc/header.php' ) ) die( 'header unable to conect' ); ?>
@@ -13,7 +14,7 @@
           <div class="w-layout-hflex contenedor-titulo-1">
             <h1 class="h1-top"><span class="text-span">Descarga</span> una App<span class="text-span-2"><br>para pagar todo</span></h1>
           </div>
-          <p class="parrafo-top">Gana dinero pagando recargas, recaudos, pines y hasta <br>apuestas en linea!</p>
+          <p class="parrafo-top">Gana comisiones por cada transacción que realices en la aplicación</p>
           <h4 class="h4-descarga home">Descarga para</h4>
           <div id="w-node-_74084743-dbf2-5862-0325-6b19b1b4c0ff-20491c45" class="w-layout-layout contenedor-qr wf-layout-layout">
             <div class="w-layout-cell qr-apple"><img src="images/boton-app-store.png" loading="lazy" width="250" alt="app"><img src="images/qr-apple.png" loading="lazy" width="108" alt="qr para descargar desde apple store, la app
@@ -33,17 +34,17 @@
         <div id="w-node-_4329edc2-834d-f158-405e-2475ebf8d527-20491c45" class="w-layout-cell caja-foto"><img src="images/image-6.webp" loading="lazy" width="525" sizes="(max-width: 991px) 100vw, 627px" alt="" srcset="images/image-6-p-500.webp 500w, images/image-6.webp 598w" class="image-7"></div>
         <div id="w-node-_4329edc2-834d-f158-405e-2475ebf8d528-20491c45" class="w-layout-cell caja-drop">
           <div class="contenedor-acordeon-preguntas">
-            <div data-hover="false" data-delay="0" data-w-id="5d409446-2333-471d-6d3c-d42af0fdb343" style="height:67px" class="acordeon w-dropdown">
+            <div data-hover="false" data-delay="0" data-w-id="6af4a283-c8a1-b246-55a4-a820d1ff9faa" style="height:67px" class="acordeon w-dropdown">
               <div class="acordeon-toggle w-dropdown-toggle">
-                <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" class="acordeon-icon w-icon-dropdown-toggle"></div><img src="images/Call.png" loading="lazy" alt="">
-                <div class="acordeon-text">Recargas</div>
+                <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" class="acordeon-icon w-icon-dropdown-toggle"></div><img src="images/Ticket.png" loading="lazy" alt="">
+                <div class="acordeon-text">Apuestas deportivas</div>
               </div>
               <nav class="acordeon-dropdown w-dropdown-list">
-                <p class="texto-dropdown mobile home">Realiza recargas a cualquier operador con nuestros paquetes de voz y navegación desde tan solo 1000 pesos.<br> Y lo mejor: <span class="text-span-3">¡Sin tarjetas de crédito!</span></p>
-                <a href="recargas.html" class="link">¡Quiero saber más!</a>
+                <p class="texto-dropdown mobile home">¿Quieres ganar gracias a tu equipo?  <span class="text-span-3">Únete al OWORLD</span> y entérate de los principales eventos deportivos del día y las mejores cuotas del mercado.</p>
+                <a href="apuestas-deportivas.html" class="link">¡Quiero saber más!</a>
               </nav>
             </div>
-          </div>
+          </div>          
           <div class="contenedor-acordeon-preguntas">
             <div data-hover="false" data-delay="0" data-w-id="850f7f76-a978-5f7d-b51a-a6d46831912c" style="height:67px" class="acordeon w-dropdown">
               <div class="acordeon-toggle w-dropdown-toggle">
@@ -57,26 +58,14 @@
             </div>
           </div>
           <div class="contenedor-acordeon-preguntas">
-            <div data-hover="false" data-delay="0" data-w-id="6af4a283-c8a1-b246-55a4-a820d1ff9faa" style="height:67px" class="acordeon w-dropdown">
+            <div data-hover="false" data-delay="0" data-w-id="5d409446-2333-471d-6d3c-d42af0fdb343" style="height:67px" class="acordeon w-dropdown">
               <div class="acordeon-toggle w-dropdown-toggle">
-                <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" class="acordeon-icon w-icon-dropdown-toggle"></div><img src="images/Ticket.png" loading="lazy" alt="">
-                <div class="acordeon-text">Apuestas deportivas</div>
+                <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" class="acordeon-icon w-icon-dropdown-toggle"></div><img src="images/Call.png" loading="lazy" alt="">
+                <div class="acordeon-text">Recargas</div>
               </div>
               <nav class="acordeon-dropdown w-dropdown-list">
-                <p class="texto-dropdown mobile home">¿Quieres ganar gracias a tu equipo?  <span class="text-span-3">Únete al OWORLD</span> y entérate de los principales eventos deportivos del día y las mejores cuotas del mercado.</p>
-                <a href="apuestas-deportivas.html" class="link">¡Quiero saber más!</a>
-              </nav>
-            </div>
-          </div>
-          <div class="contenedor-acordeon-preguntas">
-            <div data-hover="false" data-delay="0" data-w-id="e3bdf08b-eb6c-caf3-3195-0e972b422f67" style="height:67px" class="acordeon w-dropdown">
-              <div class="acordeon-toggle w-dropdown-toggle">
-                <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" class="acordeon-icon w-icon-dropdown-toggle"></div><img src="images/Wallet.png" loading="lazy" alt="">
-                <div class="acordeon-text">Recaudos</div>
-              </div>
-              <nav class="acordeon-dropdown w-dropdown-list">
-                <p class="texto-dropdown mobile home">Facturas de telefonía e internet, servicios públicos, recaudos de ventas por catálogo, aseguradoras, impuestos, y mucho más!. <span class="text-span-3">Todos los pagos en un solo lugar. </span></p>
-                <a href="recaudo.html" class="link">¡Quiero saber más!</a>
+                <p class="texto-dropdown mobile home">Realiza recargas a cualquier operador con nuestros paquetes de voz y navegación desde tan solo 1000 pesos.<br> Y lo mejor: <span class="text-span-3">¡Sin tarjetas de crédito!</span></p>
+                <a href="recargas.html" class="link">¡Quiero saber más!</a>
               </nav>
             </div>
           </div>
@@ -91,16 +80,16 @@
                 <a href="pines.html" class="link">¡Quiero saber más!</a>
               </nav>
             </div>
-          </div>
+          </div>                    
           <div class="contenedor-acordeon-preguntas">
-            <div data-hover="false" data-delay="0" data-w-id="437d8e33-1e37-be6b-6d49-814abfd007f5" style="height:67px" class="acordeon w-dropdown">
+            <div data-hover="false" data-delay="0" data-w-id="e3bdf08b-eb6c-caf3-3195-0e972b422f67" style="height:67px" class="acordeon w-dropdown">
               <div class="acordeon-toggle w-dropdown-toggle">
-                <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" class="acordeon-icon w-icon-dropdown-toggle"></div><img src="images/Shield-Done.png" loading="lazy" alt="">
-                <div class="acordeon-text">Seguros y asistencia</div>
+                <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" class="acordeon-icon w-icon-dropdown-toggle"></div><img src="images/Wallet.png" loading="lazy" alt="">
+                <div class="acordeon-text">Recaudos</div>
               </div>
               <nav class="acordeon-dropdown w-dropdown-list">
-                <p class="texto-dropdown mobile home">¿Hogar, mascotas, tecnología, autos? <span class="text-span-3">¡Todo cubierto con OWO!</span> Aquí, pensamos en tu día a día, contamos con un completo portafolio de asistencias para cada necesidad.</p>
-                <a href="seguros-y-asistencia.html" class="link">¡Quiero saber más!</a>
+                <p class="texto-dropdown mobile home">Facturas de telefonía e internet, servicios públicos, recaudos de ventas por catálogo, aseguradoras, impuestos, y mucho más!. <span class="text-span-3">Todos los pagos en un solo lugar. </span></p>
+                <a href="recaudo.html" class="link">¡Quiero saber más!</a>
               </nav>
             </div>
           </div>
