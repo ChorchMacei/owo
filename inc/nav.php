@@ -12,22 +12,21 @@
                 </div>
                 <nav class="dropdown-list w-dropdown-list">
                   <a href="recargas.php" class="abre w-dropdown-link">Recargas a celular<br>y/u operadores móviles</a>
-                  <a href="chance.html" class="abre w-dropdown-link">Chance</a>
-                  <a href="apuestas-deportivas.html" class="abre w-dropdown-link">Apuestas Deportivas</a>
-                  <a href="recaudo.html" class="abre w-dropdown-link">Recaudos</a>
-                  <a href="pines.html" class="abre w-dropdown-link">Pines</a>
-                  <a href="seguros-y-asistencia.html" class="abre ultimo w-dropdown-link">Seguros y Asistencia</a>
+                  <a href="chance.php" class="abre w-dropdown-link">Chance</a>
+                  <a href="apuestas-deportivas.php" class="abre w-dropdown-link">Apuestas Deportivas</a>
+                  <a href="recaudo.php" class="abre w-dropdown-link">Recaudos</a>
+                  <a href="pines.php" class="abre w-dropdown-link">Pines</a>
                 </nav>
               </div>
             </li>
             <li class="list-item-3">
-              <a href="contacto.html" class="nav-link">Contacto</a>
+              <a href="contacto.hphp" class="nav-link">Contacto</a>
             </li>
             <li class="list-item-4">
-              <a href="preguntas-frecuentes.html" class="nav-link">Preguntas Frecuentes</a>
+              <a href="preguntas-frecuentes.php" class="nav-link">Preguntas Frecuentes</a>
             </li>
             <li class="list-item-6">
-              <a href="index.html" aria-current="page" class="nav-link w--current">Descargar</a>
+              <a href="/" aria-current="page" class="nav-link w--current">Descargar</a>
             </li>
             <li class="ingresar">
               <a href="https://aliados.owotech.co/#/owo/account/login" class="nav-link _1">Ingresar</a>

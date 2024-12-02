@@ -2,7 +2,7 @@
 <html lang="es">
 <!-- No borrar la línea de abajo, los ID's accionan las animaciones on Page Load -->
 <html data-wf-page="66df17562688b6d820491c45" data-wf-site="66df17562688b6d820491c3e">
-<?php $titulo='Owo Home'; ?>
+<?php $titulo='Owo'; ?>
 <?php if ( ! @include( 'inc/header.php' ) ) die( 'header unable to conect' ); ?>
 <body class="body">
 <?php if ( ! @include( 'inc/nav.php' ) ) die( 'nav unable to conect' ); ?>

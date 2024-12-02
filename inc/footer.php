@@ -26,7 +26,7 @@
           <div class="w-layout-hflex flex-block-4">
             <a href="https://www.instagram.com/owoappco/" class="w-inline-block"><img src="images/instagram.png" loading="lazy" alt=""></a>
             <a href="https://www.facebook.com/owoappco/" class="w-inline-block"><img src="images/facebook.png" loading="lazy" alt=""></a>
-            <h6 class="seguinos">Seguinos en las redes!</h6>
+            <h6 class="seguinos">Síguenos en redes sociales</h6>
           </div>
           <div class="w-layout-hflex">
             <a href="#" class="politica">Términos y condiciones</a>
@@ -34,57 +34,53 @@
           </div>
         </div>
         <div id="w-node-_360d34b4-cb5f-f142-168d-caa1e1df9c72-e1df9c42" class="div-block-2">
-          <div class="w-layout-hflex flex-block"><img src="images/Home.png" loading="lazy" width="30" alt="">
+          <!--iv class="w-layout-hflex flex-block"><img src="images/Home.png" loading="lazy" width="30" alt="">
             <p data-figma-id="711:1742" class="calle-127-70-g-78-regus p-flex-box">Calle 127 # 70 G – 78 Regus</p>
           </div>
           <div class="w-layout-hflex flex-block"><img src="images/Location.png" loading="lazy" width="30" alt="">
             <p data-figma-id="711:1747" class="bogot-bulevar-ofi-201 p-flex-box">
               <a href="https://www.google.com/maps/place/Cl.+201,+Suba,+Bogotá,+Colombia/@4.7798483,-74.0521841,17z/data=!3m1!4b1!4m6!3m5!1s0x8e3f85e6c18e7125:0x849d792f15ba7b71!8m2!3d4.779843!4d-74.0496092!16s%2Fg%2F11byn09ghb?entry=ttu&amp;g_ep=EgoyMDI0MDkxMC4wIKXMDSoASAFQAw%3D%3D" class="link-8">Bogotá, Bulevar Ofi. 201</a>
             </p>
-          </div>
+          </div-->
           <div class="w-layout-hflex flex-block"><img src="images/Message.png" loading="lazy" width="30" alt="">
             <p data-figma-id="711:1752" class="ayuda-owo-com-co p-flex-box">
               <a href="mailto:mailto:ayuda@owo.com.co" class="link-9">ayuda@owo.com.co</a>
             </p>
           </div>
-          <div class="w-layout-hflex flex-block"><img src="images/Call-2.png" loading="lazy" width="30" alt="">
+          <div class="w-layout-hflex flex-block"><img style="filter: blur(0.55px) invert(1);" src="images/whatsapp-wider-2.png" loading="lazy" width="25" alt="">
             <p class="paragraph-5 p-flex-box">
-              <a href="https://web.whatsapp.com" class="link-10">+57 3044476190
-                (601) 7704826</a>
+              <a href="https://wa.me/573044476190" class="link-10">+57 3044476190</a>
             </p>
           </div>
         </div>
         <div id="w-node-_360d34b4-cb5f-f142-168d-caa1e1df9c83-e1df9c42" class="w-layout-vflex flex-block-5">
           <ul role="list" class="list">
             <li>
-              <a href="#" class="items-menu">Servicios</a>
+              <a href="#" class="items-menu">Productos</a>
             </li>
           </ul>
           <ul role="list" class="list-2">
             <li class="list-item">
-              <a href="recargas.html" class="heading-4">Recargas</a>
+              <a href="recargas.php" class="heading-4">Recargas a celular<br>y/u operadores móviles</a>
             </li>
             <li class="list-item">
-              <a href="chance.html" class="heading-4">Chance</a>
+              <a href="chance.php" class="heading-4">Chance</a>
             </li>
             <li class="list-item">
-              <a href="apuestas-deportivas.html" class="heading-4">Apuestas deportivas</a>
+              <a href="apuestas-deportivas.php" class="heading-4">Apuestas deportivas</a>
             </li>
             <li class="list-item">
-              <a href="pines.html" class="heading-4">Pines</a>
-            </li>
+              <a href="recaudo.php" class="heading-4">Recaudos</a>
+            </li>            
             <li class="list-item">
-              <a href="recaudo.html" class="heading-4">Recaudos</a>
-            </li>
-            <li class="list-item">
-              <a href="seguros-y-asistencia.html" class="heading-4">Seguro y asistencia</a>
+              <a href="pines.php" class="heading-4">Pines</a>
             </li>
           </ul>
         </div>
         <div id="w-node-_360d34b4-cb5f-f142-168d-caa1e1df9c9e-e1df9c42" class="w-layout-vflex">
           <ul role="list" class="list">
             <li>
-              <a href="contacto.html" class="items-menu">Contacto</a>
+              <a href="contacto.php" class="items-menu">Contacto</a>
             </li>
             <li>
               <a href="https://www.linkedin.com/company/owo/?originalSubdomain=co" class="items-menu">Owotech</a>
@@ -95,12 +91,12 @@
           </div>
           <ul role="list" class="list">
             <li>
-              <a href="preguntas-frecuentes.html" class="items-menu">Preguntas frecuentes</a>
+              <a href="preguntas-frecuentes.php" class="items-menu">Preguntas frecuentes</a>
             </li>
           </ul>
           <div class="w-layout-hflex flex-block-7">
-            <a href="index.html" aria-current="page" class="w-inline-block w--current"><img src="images/play.png" loading="lazy" alt=""></a>
-            <a href="index.html" aria-current="page" class="w-inline-block w--current"><img src="images/aplle.png" loading="lazy" alt=""></a>
+            <a href="/" aria-current="page" class="w-inline-block w--current"><img src="images/play.png" loading="lazy" alt=""></a>
+            <a href="/" aria-current="page" class="w-inline-block w--current"><img src="images/aplle.png" loading="lazy" alt=""></a>
           </div>
         </div>
       </div>
@@ -191,7 +187,7 @@
       <div class="div"></div>
       <div class="w-layout-hflex flex-block-8">
         <a href="#" class="politica">Términos y condiciones</a>
-        <a href="politica.html" class="politica _2">Política de privacidad</a>
+        <a href="politica.php" class="politica _2">Política de privacidad</a>
       </div>
     </div>
   </section>

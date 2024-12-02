@@ -1,6 +1,6 @@
 <head>
   <meta charset="utf-8">
-  <title>Contacto</title>
+  <title><?php echo $titulo; ?></title>
   <meta content="Contacto" property="og:title">
   <meta content="Contacto" property="twitter:title">
   <meta content="width=device-width, initial-scale=1" name="viewport">
