@@ -20,7 +20,7 @@
               </div>
             </li>
             <li class="list-item-3">
-              <a href="contacto.hphp" class="nav-link">Contacto</a>
+              <a href="contacto.php" class="nav-link">Contacto</a>
             </li>
             <li class="list-item-4">
               <a href="preguntas-frecuentes.php" class="nav-link">Preguntas Frecuentes</a>

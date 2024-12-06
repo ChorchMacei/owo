@@ -187,7 +187,7 @@
       <div class="div"></div>
       <div class="w-layout-hflex flex-block-8">
         <a href="#" class="politica">Términos y condiciones</a>
-        <a href="politica.php" class="politica _2">Política de privacidad</a>
+        <a href="politica.php" class="politica _2">Política de privacidad4</a>
       </div>
     </div>
   </section>
