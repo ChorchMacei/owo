@@ -71,6 +71,9 @@
             <li class="list-item">
               <a href="pines.php" class="heading-4">Pines</a>
             </li>
+            <li class="list-item">
+              <a href="#" class="heading-4">SOAT</a>
+            </li>            
           </ul>
         </div>
         <div id="w-node-_360d34b4-cb5f-f142-168d-caa1e1df9c9e-e1df9c42" class="w-layout-vflex">
@@ -137,30 +140,33 @@
             </li>
           </ul>
           <ul role="list" class="list-2">
-            <li class="list-item">
-              <a href="recargas.html" class="heading-4">Recargas</a>
+          <li class="list-item">
+              <a href="recargas.php" class="heading-4">Recargas a celular<br>y/u operadores móviles</a>
             </li>
             <li class="list-item">
-              <a href="chance.html" class="heading-4">Chance</a>
+              <a href="chance.php" class="heading-4">Chance</a>
             </li>
             <li class="list-item">
-              <a href="apuestas-deportivas.html" class="heading-4">Apuestas deportivas</a>
+              <a href="apuestas-deportivas.php" class="heading-4">Apuestas deportivas</a>
             </li>
             <li class="list-item">
-              <a href="pines.html" class="heading-4">Pines</a>
+              <a href="recaudo.php" class="heading-4">Recaudos</a>
+            </li>            
+            <li class="list-item">
+              <a href="pines.php" class="heading-4">Pines</a>
             </li>
             <li class="list-item">
-              <a href="recaudo.html" class="heading-4">Recaudos</a>
+              <a href="#" class="heading-4">SOAT</a>
             </li>
-            <li class="list-item">
+            <!--li class="list-item">
               <a href="seguros-y-asistencia.html" class="heading-4">Seguro y asistencia</a>
-            </li>
+            </li-->
           </ul>
         </div>
         <div id="w-node-c87b1627-f9b0-b439-5b2a-cf2622d5652e-22d564ce" class="w-layout-vflex">
           <ul role="list" class="list">
             <li>
-              <a href="contacto.html" class="items-menu">Contacto</a>
+              <a href="contacto.php" class="items-menu">Contacto</a>
             </li>
             <li>
               <a href="https://www.linkedin.com/company/owo/?originalSubdomain=co" class="items-menu">Owotech</a>
@@ -171,7 +177,7 @@
           </div>
           <ul role="list" class="list">
             <li>
-              <a href="preguntas-frecuentes.html" class="items-menu">Preguntas frecuentes</a>
+              <a href="preguntas-frecuentes.php" class="items-menu">Preguntas frecuentes</a>
             </li>
           </ul>
           <div class="w-layout-hflex flex-block-7">
