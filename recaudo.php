@@ -16,7 +16,17 @@
         </div>
       </div>
     </div>
-  </section><img src="images/tira-violeta.webp" loading="lazy" sizes="(max-width: 1920px) 100vw, 1920px" srcset="images/tira-violeta-p-500.webp 500w, images/tira-violeta-p-800.webp 800w, images/tira-violeta-p-1080.webp 1080w, images/tira-violeta-p-1600.webp 1600w, images/tira-violeta.webp 1920w" alt="" class="image-95"><img src="images/izquierda.png" loading="lazy" alt="" class="image-62">
+  </section>
+  <img src="images/tira-violeta.webp" loading="lazy" sizes="(max-width: 1920px) 100vw, 1920px" srcset="images/tira-violeta-p-500.webp 500w, images/tira-violeta-p-800.webp 800w, images/tira-violeta-p-1080.webp 1080w, images/tira-violeta-p-1600.webp 1600w, images/tira-violeta.webp 1920w" alt="" class="image-95"><img src="images/izquierda.png" loading="lazy" alt="" class="image-62">
+  <div class="logo-carousel nomenos991">
+    <div class="logos-container">
+      <?php $directory = 'images/pasarela-logos/'; // Cambia esto al folder de tus logos
+      $images = glob($directory . "*.{jpg,png,gif}", GLOB_BRACE);
+        foreach($images as $image) {
+          echo '<img src="' . $image . '" class="logo-item-carrousel">';
+          } ?>
+    </div>
+  </div>
   <section class="recargas-2">
     <section class="recar-seccion-2">
       <div id="w-node-_292fa25d-74d9-03a4-01b7-0ad8aced0821-10b94d9a" class="w-layout-layout caja-foto-texto-recargas recaudo wf-layout-layout">
@@ -25,7 +35,21 @@
           <h2 class="titulo-chance-seccion-2">¿Sigues pagando en efectivo?</h2>
           <p class="parrafo-seccion-2-recargas">Usando OWO puedes pagar facturas de telefonía, internet, servicios públicos, recaudos de ventas por catálogo, aseguradoras, impuestos, planilla pila, cuotas de administración y mucho más. Lo mejor de todo es que ganas comisiones por cada transacción.</p>
           <h1 class="caja-tutilo-seccion-2-general recaudo-mobile-1">Recaudos</h1>
-          <p class="caja-subtitulo-subtitulo-subtitulo-seccion-2-general"><span class="text-span-23">18.000 convenios de recaudo,</span> puedes pagar todo!</p>
+          <p class="caja-subtitulo-subtitulo-subtitulo-seccion-2-general">
+            <div class="estilo-carrousel-celu">
+              <div class="logo-carousel nomas991">
+                <div class="logos-container">
+                  <?php $directory = 'images/pasarela-logos/'; // Cambia esto al folder de tus logos
+                  $images = glob($directory . "*.{jpg,png,gif}", GLOB_BRACE);
+                    foreach($images as $image) {
+                      echo '<img src="' . $image . '" class="logo-item-carrousel">';
+                      } ?>
+                </div>
+              </div>
+            </div>
+          </p>
+          <p class="caja-subtitulo-subtitulo-subtitulo-seccion-2-general subtitulo-recaudo">
+          <span class="text-span-23">18.000 convenios de recaudo,</span> puedes pagar todo!</p>
           <p class="caja-subtitulo-subtitulo-seccion-general">Usando OWO puedes pagar facturas de telefonía, internet, servicios públicos, recaudos de ventas por catálogo, aseguradoras, impuestos, planilla pila, cuotas de administración y mucho más. Lo mejor de todo es que ganas comisiones por cada transacción.</p>
         </div>
       </div>

@@ -41,8 +41,29 @@ body {position: relative;}
     flex-direction: column;
 }
 
+.nomenos991{
+    display: block;
+} 
+
 .nomas991{
-    display: none;
+    display: none!important;
+}
+
+.mismo-fondo-footer{
+    background-color: #8358a5;
+    padding: 50px 20px;
+}
+
+.seccion-5-footer {
+    padding-bottom: 0;
+}
+
+.subfooter{
+    background-color: #8358a5;
+    border: solid -1px #8358a5;
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 @media screen and (min-width: 1440px) {
@@ -63,6 +84,21 @@ body {position: relative;}
 		z-index: 3;
     }
 
+    .seccion-5-footer.mobile {
+        padding-bottom: 0px;
+    } 
+    
+    .mismo-fondo-footer .politica._2 {
+        border: none;
+    }
+
+    .subfooter .w-layout-hflex {
+        flex-direction: column;
+        align-items: center;
+        display: flex;
+        row-gap: 10px;
+        text-align: center;
+    }    
 
     .recargas-2-correcion {
         top: 350px!important;
@@ -77,9 +113,21 @@ body {position: relative;}
         align-self: center;
     }  
     
+    .nomenos991{
+        display: none!important;
+    } 
+
     .nomas991{
-        display: block;
-    }    
+        display: block!important;
+    } 
+    
+    .contenedor-top {
+        padding-top: 350px;
+    }   
+
+    .subtitulo-recaudo{
+        padding-top: 25px;
+    }
 }
 
 @media screen and (min-width: 991px) {
@@ -127,5 +175,50 @@ body {position: relative;}
     /* Tus estilos aquí */
     .image-9 {
         margin-top: -127px;
+    }
+}
+
+/* Pasarela de logos Recaudos */
+
+/* styles.css */
+
+.estilo-carrousel-celu {
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    padding-bottom: 80px;
+}
+
+.logo-carousel {
+    overflow: hidden;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+@media screen and (max-width: 991px) {
+    .logo-carousel {
+        position: absolute;
+    }
+}
+
+.logos-container {
+    display: flex;
+    animation: scroll 20s linear infinite;
+}
+
+.logos-container .logo-item-carrousel {
+    width: 100px; /* Ajusta el tamaño según sea necesario */
+    margin: 0 10px;
+}
+
+@keyframes scroll {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-100%);
     }
 }

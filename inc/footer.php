@@ -27,11 +27,7 @@
             <a href="https://www.instagram.com/owoappco/" class="w-inline-block"><img src="images/instagram.png" loading="lazy" alt=""></a>
             <a href="https://www.facebook.com/owoappco/" class="w-inline-block"><img src="images/facebook.png" loading="lazy" alt=""></a>
             <h6 class="seguinos">Síguenos en redes sociales</h6>
-          </div>
-          <div class="w-layout-hflex">
-            <a href="#" class="politica">Términos y condiciones</a>
-            <a href="politica.html" class="politica _2">Política de privacidad</a>
-          </div>
+          </div>        
         </div>
         <div id="w-node-_360d34b4-cb5f-f142-168d-caa1e1df9c72-e1df9c42" class="div-block-2">
           <!--iv class="w-layout-hflex flex-block"><img src="images/Home.png" loading="lazy" width="30" alt="">
@@ -100,7 +96,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> 
   </section>
   <section class="seccion-5-footer mobile recarga-tablet chance-mobile-1 apuestas-mobile-1 tablet-home-footer mobile-1 mobile-1-version-2 mobile-1-version-3 mobile-1-version-4 mobile-1-version-5">
     <div class="w-layout-blockcontainer contenedor-footer w-container"><img src="images/logo-blanco.png" loading="lazy" width="163" alt="" class="image-11">
@@ -131,7 +127,7 @@
           <div class="w-layout-hflex flex-block-4">
             <a href="https://www.instagram.com/owoappco/" class="w-inline-block"><img src="images/instagram.png" loading="lazy" alt=""></a>
             <a href="https://www.facebook.com/owoappco/" class="w-inline-block"><img src="images/facebook.png" loading="lazy" alt=""></a>
-            <h6 class="seguinos">Seguinos en las redes!</h6>
+            <h6 class="seguinos">Síguenos en redes sociales!</h6>
           </div>
         </div>
         <div id="w-node-c87b1627-f9b0-b439-5b2a-cf2622d56513-22d564ce" class="w-layout-vflex flex-block-5">
@@ -185,11 +181,19 @@
         </div>
       </div>
       <div class="div"></div>
-      <div class="w-layout-hflex flex-block-8">
+      <!--div class="w-layout-hflex flex-block-8">
         <a href="#" class="politica">Términos y condiciones</a>
-        <a href="politica.php" class="politica _2">Política de privacidad4</a>
-      </div>
+        <a href="politica.php" class="politica _2">Política de privacidad</a>
+        <a href="descargas/Formato-de-Autorizacion-de-Tratamiento-de-Datos-para-fines-publicitarios-ALIADOS-COMERCIALES-OWO.pdf" target="_blank" class="politica _2">Formato de Autorización de Tratamiento de Datos para fines publicitarios</a>
+      </div-->
     </div>
+  </section>
+  <section class="subfooter">
+  <div class="w-layout-hflex mismo-fondo-footer">
+    <a href="#" class="politica">Términos y condiciones</a>
+    <a href="politica.php" class="politica _2">Política de privacidad</a>
+    <a href="descargas/Formato-de-Autorizacion-de-Tratamiento-de-Datos-para-fines-publicitarios-ALIADOS-COMERCIALES-OWO.pdf" target="_blank" class="politica _2">Formato de Autorización de Tratamiento de Datos para fines publicitarios</a>
+  </div>  
   </section>
   <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=66df17562688b6d820491c3e" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
   <script src="js/webflow.js" type="text/javascript"></script>

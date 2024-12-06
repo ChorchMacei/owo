@@ -24,7 +24,7 @@
           <p class="parrafo-top"></p>
         </div>
       </div>
-      <section class="seccion123"><img src="images/1-2-3.png" loading="lazy" sizes="(max-width: 1152px) 100vw, 1152px" srcset="images/1-2-3-p-500.png 500w, images/1-2-3-p-800.png 800w, images/1-2-3-p-1080.png 1080w, images/1-2-3.png 1152w" alt="circulos con numeros 1 2 3" class="image-14"></section>
+      <section class="seccion123"><img src="images/1_2_3.png" loading="lazy" sizes="(max-width: 1152px) 100vw, 1152px" srcset="images/1-2-3-500.png 500w, images/1-2-3-800.png 800w, images/1-2-3-1080.png 1080w, images/1_2_3.png 1152w" alt="circulos con numeros 1 2 3" class="image-14"></section>
     </div>
   </section><img src="images/tira-violeta.webp" loading="lazy" sizes="(max-width: 1920px) 100vw, 1920px" srcset="images/tira-violeta-p-500.webp 500w, images/tira-violeta-p-800.webp 800w, images/tira-violeta-p-1080.webp 1080w, images/tira-violeta-p-1600.webp 1600w, images/tira-violeta.webp 1920w" alt="" class="image-92">
   <section class="recargas-2 recargas-2-correcion">
