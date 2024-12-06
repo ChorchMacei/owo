@@ -16,6 +16,7 @@
                   <a href="apuestas-deportivas.php" class="abre w-dropdown-link">Apuestas Deportivas</a>
                   <a href="recaudo.php" class="abre w-dropdown-link">Recaudos</a>
                   <a href="pines.php" class="abre w-dropdown-link">Pines</a>
+                  <a href="#" class="abre w-dropdown-link">SOAT</a>
                 </nav>
               </div>
             </li>
