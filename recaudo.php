@@ -39,7 +39,7 @@
             <div class="estilo-carrousel-celu">
               <div class="logo-carousel nomas991">
                 <div class="logos-container">
-                  <?php $directory = 'images/pasarela-logos/'; // Cambia esto al folder de tus logos
+                  <?php $directory = 'images/pasarela-logos/wep/'; // Cambia esto al folder de tus logos
                   $images = glob($directory . "*.{jpg,png,gif}", GLOB_BRACE);
                     foreach($images as $image) {
                       echo '<img src="' . $image . '" class="logo-item-carrousel">';
