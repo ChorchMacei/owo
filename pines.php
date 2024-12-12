@@ -12,7 +12,7 @@
         <div class="w-layout-cell texto-der-top">
           <h5 class="boton-top apuestas seguros chance seguros-y-asistencia">Pines</h5>
           <div class="w-layout-hflex contenedor-titulo-1">
-            <h1 class="h1-top">Tus Plataformas y <br>juegos favoritos.<span class="text-span-2"><br>¡Todo eso en un <br>solo lugar!</span></h1>
+            <h1 class="h1-top">Tus plataformas y <br>juegos favoritos.<span class="text-span-2"><br>¡Todo eso en un <br>solo lugar!</span></h1>
           </div>
         </div>
       </div>
@@ -28,7 +28,7 @@
         <div id="w-node-_292fa25d-74d9-03a4-01b7-0ad8aced0822-d4ba4e26" class="w-layout-cell"><img src="images/persona-viendo-compu-dibujo.png" loading="lazy" width="536" sizes="(max-width: 767px) 100vw, 536px" alt="" srcset="images/persona-viendo-compu-dibujo-p-500.png 500w, images/persona-viendo-compu-dibujo.png 589w"></div>
         <div id="w-node-_292fa25d-74d9-03a4-01b7-0ad8aced0823-d4ba4e26" class="w-layout-cell caja-pines logos-pines">
           <h3 class="caja-tutilo-seccion-2-general pines-tablet">Pines</h3>
-          <p class="caja-subtitulo-seccion-2-general-2 pines"><span class="text-span-26">Tus Plataformas y juegos favoritos.</span> ¡Todo eso en un solo lugar!</p>
+          <p class="caja-subtitulo-seccion-2-general-2 pines"><span class="text-span-26">Tus plataformas y juegos favoritos.</span> ¡Todo eso en un solo lugar!</p>
           <p class="caja-subtitulo-subtitulo-seccion-general pines">Con owo tienes la diversión segurada, compra tus pines favoritos con un solo click.</p>
           <div class="w-layout-grid cajita-logos-mobile-pines"><img src="images/dgo.png" loading="lazy" width="162" id="w-node-_0fd0a1ba-3b6f-ee62-f728-cb67326993ec-d4ba4e26" alt="logo de direct tv go" class="image-21 _1"><img src="images/paramount1.1.png" loading="lazy" width="147" id="w-node-b24b8af9-1f10-b5de-19cb-04dff472af29-d4ba4e26" alt="logo de paramont" class="image-25 _1"><img src="images/DEZEER.png" loading="lazy" width="219" id="w-node-c2626da8-9fc2-858e-9123-f61657368c2a-d4ba4e26" alt="logo de deezer" class="image-24 _1"><img src="images/noggin.png" loading="lazy" width="287" height="Auto" alt="logo de noggin" id="w-node-_3419dbd4-41ca-676d-2dc4-93ea01928685-d4ba4e26" class="image-26 _1"><img src="images/netflix.png" loading="lazy" width="168" id="w-node-cdd93336-efc3-3abd-4d61-67023cde1113-d4ba4e26" alt="logo de netflix" class="image-27 _1"><img src="images/pin_spotify.png" loading="lazy" width="195" id="w-node-_542719a4-04e0-5e11-6162-83bd49b743a7-d4ba4e26" alt="logo de spotify" class="image-23 _1"><img src="images/pin_playstation.png" loading="lazy" width="188" alt="logo de playstation" class="image-22 _1">
             <div id="w-node-_97588b10-d645-be1d-1823-75907ca80852-d4ba4e26"></div>

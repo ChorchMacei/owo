@@ -1,7 +1,9 @@
   <div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" data-no-scroll="1" role="banner" class="navbar-no-shadow-container w-nav">
     <div class="container-regular">
       <div class="navbar-wrapper">
-        <a href="index.php" aria-current="page" class="navbar-brand w-nav-brand w--current"><img src="images/Logo-OWO.png" loading="lazy" alt="logo de owo violeta" class="image-75"></a>
+        <a href="index.php" aria-current="page" class="navbar-brand w-nav-brand w--current">
+          <?php echo $logonavmobile; ?>
+        </a>
         <nav role="navigation" class="nav-menu-wrapper w-nav-menu">
           <ul role="list" class="nav-menu w-list-unstyled">
             <li class="list-item-2">

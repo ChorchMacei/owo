@@ -25,10 +25,10 @@
       </div>
     </div><img class="image" src="images/1-mano-celu-home.webp" width="674" alt="" style="-webkit-transform:translate3d(0px, 300px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0px, 300px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0px, 300px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0px, 300px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 450px, (max-width: 767px) 550px, (max-width: 991px) 650px, (max-width: 1439px) 55vw, 674px" data-w-id="1d0893a3-6820-0390-3492-e4b6b0976036" loading="lazy" srcset="images/1-mano-celu-home-p-500.webp 500w, images/1-mano-celu-home-p-800.webp 800w, images/1-mano-celu-home.webp 895w"><img src="images/Recuadros-opacidad-1.png" loading="lazy" sizes="100vw" srcset="images/Recuadros-opacidad-1-p-500.png 500w, images/Recuadros-opacidad-1.png 601w" alt="" class="image-45"><img class="image-44" src="images/Recuadros-opacidad-1.png" alt="" style="-webkit-transform:translate3d(-369px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(-369px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(-369px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(-369px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 991px) 100vw, 601px" data-w-id="f5abf2b7-692d-6ead-dafd-9c1ea85ef42f" loading="lazy" srcset="images/Recuadros-opacidad-1-p-500.png 500w, images/Recuadros-opacidad-1.png 601w"><img src="images/Recuadros-opacidad-2.png" loading="lazy" width="480" alt="" class="image-2"><img src="images/card-trans-2.png" loading="lazy" alt="" class="image-46"><img src="images/card-trans-1.png" loading="lazy" alt="" class="image-52"><img src="images/card-trans-4.png" loading="lazy" alt="" class="image-47"><img src="images/card-trans-5.png" loading="lazy" alt="" class="image-50"><img src="images/card-trans-6.png" loading="lazy" alt="" class="image-51"><img src="images/card-trans-3.png" loading="lazy" alt="" class="image-53"><img src="images/tira-violeta.webp" loading="lazy" style="-webkit-transform:translate3d(-82px, 0px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(-82px, 0px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(-82px, 0px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(-82px, 0px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" data-w-id="3c9fa39d-455b-5780-1640-2e07dae309ea" alt="" class="image-5">
   </div>
-  <section class="seccion-2"><img src="images/animado-descargas-home-2.gif" loading="lazy" alt="" class="image-89">
-    <a href="onbording.html" class="boton-descargar-1 _1 recarga-mobile w-inline-block"><img src="images/descargar-boton.png" loading="lazy" alt=""></a><img src="images/image-6.webp" loading="lazy" width="393" sizes="(max-width: 479px) 100vw, (max-width: 991px) 393px, 100vw" alt="" srcset="images/image-6-p-500.webp 500w, images/image-6.webp 598w" class="image-43">
-    <h2 class="titulo-seccion-2">¡Pagas servicios, <br>ganas!</h2>
-    <p class="parrafo-seccion-2">Somos tu app para ganar dinero al pagar tus cuentas, recargar tu móvil, comprar y asegurar tus pertenencias.</p>
+  <section class="seccion-2 fix-mobile-space"><img src="images/animado-descargas-home-2.gif" loading="lazy" alt="" class="image-89">
+    <a href="onbording.html" class="boton-descargar-1 _1 recarga-mobile w-inline-block">Descargar&nbsp;<?php echo $flechadescargabtn; ?></a><img src="images/image-6.webp" loading="lazy" width="393" sizes="(max-width: 479px) 100vw, (max-width: 991px) 393px, 100vw" alt="" srcset="images/image-6-p-500.webp 500w, images/image-6.webp 598w" class="image-43">
+    <h2 class="titulo-seccion-2">¡Dinero extra!</h2>
+    <p class="parrafo-seccion-2">Somos tu app para ganar dinero al pagar tus cuentas, recargar tu móvil, comprar pines de entretenimiento.</p>
     <div class="w-layout-blockcontainer contenedor-seccion-2 w-container">
       <div id="w-node-_4329edc2-834d-f158-405e-2475ebf8d526-20491c45" class="w-layout-layout contenedor-drop-down mobile home wf-layout-layout">
         <div id="w-node-_4329edc2-834d-f158-405e-2475ebf8d527-20491c45" class="w-layout-cell caja-foto"><img src="images/image-6.webp" loading="lazy" width="525" sizes="(max-width: 991px) 100vw, 627px" alt="" srcset="images/image-6-p-500.webp 500w, images/image-6.webp 598w" class="image-7"></div>
@@ -36,8 +36,9 @@
           <div class="contenedor-acordeon-preguntas">
             <div data-hover="false" data-delay="0" data-w-id="6af4a283-c8a1-b246-55a4-a820d1ff9faa" style="height:67px" class="acordeon w-dropdown">
               <div class="acordeon-toggle w-dropdown-toggle">
-                <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" class="acordeon-icon w-icon-dropdown-toggle"></div><img src="images/Ticket.png" loading="lazy" alt="">
+                <img src="images/Ticket.png" loading="lazy" alt="">
                 <div class="acordeon-text">Apuestas deportivas</div>
+                <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" class="acordeon-icon w-icon-dropdown-toggle"></div>
               </div>
               <nav class="acordeon-dropdown w-dropdown-list">
                 <p class="texto-dropdown mobile home">¿Quieres ganar gracias a tu equipo?  <span class="text-span-3">Únete al OWORLD</span> y entérate de los principales eventos deportivos del día y las mejores cuotas del mercado.</p>
@@ -110,7 +111,7 @@
         <div class="w-layout-cell qr-play"><img src="images/boton-gogle-play-nuevo.svg" loading="lazy" alt=""><img src="images/qr-play.png" loading="lazy" width="108" alt=""></div>
       </div>
       <h3 class="te-suena">Descarga la App y <br>empieza a ganar <br>comisiones</h3>
-      <a href="onbording.html" class="boton-descargar-1 w-inline-block"><img src="images/descargar-boton.png" loading="lazy" alt=""></a>
+      <a href="onbording.html" class="boton-descargar-1 w-inline-block">Descargar&nbsp;<?php echo $flechadescargabtn; ?></a>
     </div>
     <div id="w-node-f3d266e4-eeba-0dd1-c46a-2cbc5db9f1e2-20491c45" class="w-layout-cell foto-chica"><img src="images/chica-celu.webp" loading="lazy" alt="" class="image-9"></div>
   </div><img src="images/8000-owers.gif" loading="lazy" alt="" class="image-90">
@@ -138,7 +139,7 @@
       </div>
       <h2 class="sub-titulo-recargas-3">Descarga la App y <br>‍<span class="text-span-6">comienza hoy</span></h2>
       <h3 class="te-suena extra">Descarga la App y <br><strong>comienza hoy</strong></h3>
-      <a href="onbording.html" class="boton-descargar-1 _3 w-inline-block"><img src="images/descargar-boton.png" loading="lazy" alt=""></a>
+      <a href="onbording.html" class="boton-descargar-1 _3 w-inline-block">Descargar&nbsp;<?php echo $flechadescargabtn; ?></a>
       <h4 class="h4-descarga">Descarga para</h4>
       <div class="w-layout-blockcontainer contenedor-de-qr-chico w-container">
         <div class="w-layout-vflex cajita-qr-chicos"><img src="images/boton-app-store.png" loading="lazy" width="142" alt="app"><img src="images/qr-apple.png" loading="lazy" width="108" alt="qr para descargar desde apple store, la app

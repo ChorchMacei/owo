@@ -11,7 +11,7 @@
         <div class="w-layout-cell texto-der-top">
           <h5 class="boton-top apuestas seguros chance seguros-y-asistencia">Recaudo</h5>
           <div class="w-layout-hflex contenedor-titulo-1">
-            <h1 class="h1-top">Con 18.000 convenios <br>de recaudo, <br>‍<span class="text-span-2">puedes pagar todo!</span></h1>
+            <h1 class="h1-top">¡Con 21.000 convenios <br>de recaudo, <br>‍<span class="text-span-2">puedes pagar todo!</span></h1>
           </div>
         </div>
       </div>
@@ -49,7 +49,7 @@
             </div>
           </p>
           <p class="caja-subtitulo-subtitulo-subtitulo-seccion-2-general subtitulo-recaudo">
-          <span class="text-span-23">18.000 convenios de recaudo,</span> puedes pagar todo!</p>
+          <span class="text-span-23">21.000 convenios de recaudo,</span> puedes pagar todo!</p>
           <p class="caja-subtitulo-subtitulo-seccion-general">Usando OWO puedes pagar facturas de telefonía, internet, servicios públicos, recaudos de ventas por catálogo, aseguradoras, impuestos, planilla pila, cuotas de administración y mucho más. Lo mejor de todo es que ganas comisiones por cada transacción.</p>
         </div>
       </div>
