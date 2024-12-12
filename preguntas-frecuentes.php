@@ -65,7 +65,7 @@
               <div class="acordeon-text"><strong>¿Puedo registrarme con otro dispositivo?</strong></div>
             </div>
             <nav class="acordeon-dropdown w-dropdown-list">
-              <p class="texto-dropdown _2">“Si, solo ten en cuenta que este se realice con tu número personal cuando se solicite”. Nota: Recuerda que el número celular está asociado a los datos de tu cuenta. </p>
+              <p class="texto-dropdown _2">Si, solo ten en cuenta que este se realice con tu número personal cuando se solicite”. Nota: Recuerda que el número celular está asociado a los datos de tu cuenta. </p>
             </nav>
           </div>
         </div>
