@@ -267,5 +267,11 @@ body {position: relative;}
 
 .link {
     margin-right: 8%;
-;
+}
+
+.whatsapp-flotante{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999;
 }
