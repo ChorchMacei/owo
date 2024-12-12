@@ -24,8 +24,8 @@
         <div class="w-layout-vflex flex-block-3">
           <p class="paragraph-4 texto-footer">Tu app para ganar dinero pagando tus cuentas, recargar tu móvil, comprar y asegurar tus pertenencias.</p>
           <div class="w-layout-hflex flex-block-4">
-            <a href="https://www.instagram.com/owoappco/" class="w-inline-block"><img src="images/instagram.png" loading="lazy" alt=""></a>
-            <a href="https://www.facebook.com/owoappco/" class="w-inline-block"><img src="images/facebook.png" loading="lazy" alt=""></a>
+            <a href="https://www.instagram.com/owoappco/" target="_blank" class="w-inline-block"><img src="images/instagram.png" loading="lazy" alt=""></a>
+            <a href="https://www.facebook.com/owoappco/" target="_blank" class="w-inline-block"><img src="images/facebook.png" loading="lazy" alt=""></a>
             <h6 class="seguinos">Síguenos en redes sociales</h6>
           </div>        
         </div>
@@ -45,7 +45,7 @@
           </div>
           <div class="w-layout-hflex flex-block"><img style="filter: blur(0.55px) invert(1);" src="images/whatsapp-wider-2.png" loading="lazy" width="25" alt="">
             <p class="paragraph-5 p-flex-box">
-              <a href="https://wa.me/573044476190" class="link-10">+57 3044476190</a>
+              <a href="https://wa.me/573044476190" target="_blank" class="link-10">+57 3044476190</a>
             </p>
           </div>
         </div>
@@ -77,12 +77,15 @@
           </ul>
         </div>
         <div id="w-node-_360d34b4-cb5f-f142-168d-caa1e1df9c9e-e1df9c42" class="w-layout-vflex">
-          <ul role="list" class="list">
+          <ul role="list" class="list ul-linkedin-footer">
             <li>
               <a href="contacto.php" class="items-menu">Contacto</a>
             </li>
             <li>
-              <a href="https://www.linkedin.com/company/owo/?originalSubdomain=co" class="items-menu">Owotech</a>
+              <a href="https://www.linkedin.com/company/owo/?originalSubdomain=co" class="items-menu"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="20" height="20" viewBox="0 0 50 50"
+style="fill:#FFFFFF;">
+    <path d="M41,4H9C6.24,4,4,6.24,4,9v32c0,2.76,2.24,5,5,5h32c2.76,0,5-2.24,5-5V9C46,6.24,43.76,4,41,4z M17,20v19h-6V20H17z M11,14.47c0-1.4,1.2-2.47,3-2.47s2.93,1.07,3,2.47c0,1.4-1.12,2.53-3,2.53C12.2,17,11,15.87,11,14.47z M39,39h-6c0,0,0-9.26,0-10 c0-2-1-4-3.5-4.04h-0.08C27,24.96,26,27.02,26,29c0,0.91,0,10,0,10h-6V20h6v2.56c0,0,1.93-2.56,5.81-2.56 c3.97,0,7.19,2.73,7.19,8.26V39z"></path>
+</svg>  Owotech</a>
             </li>
           </ul>
           <div class="w-layout-hflex flex-block-6"><img src="images/entrada-blanca.png" loading="lazy" alt="">
@@ -94,8 +97,8 @@
             </li>
           </ul>
           <div class="w-layout-hflex flex-block-7">
-            <a href="/" aria-current="page" class="w-inline-block w--current"><img src="images/play.png" loading="lazy" alt=""></a>
-            <a href="/" aria-current="page" class="w-inline-block w--current"><img src="images/aplle.png" loading="lazy" alt=""></a>
+            <a href="https://play.google.com/store/apps/details?id=owo.com.co" target="_blank" aria-current="page" class="w-inline-block w--current"><img src="images/play.png" loading="lazy" alt=""></a>
+            <a href="https://apps.apple.com/co/app/owo/id1537247583" target="_blank" aria-current="page" class="w-inline-block w--current"><img src="images/aplle.png" loading="lazy" alt=""></a>
           </div>
         </div>
       </div>
@@ -123,13 +126,13 @@
           </div>
           <div class="w-layout-hflex flex-block"><img src="images/Call-2.png" loading="lazy" width="30" alt="">
             <p class="paragraph-5 p-flex-box">
-              <a href="https://web.whatsapp.com" class="link-10">+57 3044476190
+              <a href="https://web.whatsapp.com" target="_blank" class="link-10">+57 3044476190
                 (601) 7704826</a>
             </p>
           </div>
           <div class="w-layout-hflex flex-block-4">
-            <a href="https://www.instagram.com/owoappco/" class="w-inline-block"><img src="images/instagram.png" loading="lazy" alt=""></a>
-            <a href="https://www.facebook.com/owoappco/" class="w-inline-block"><img src="images/facebook.png" loading="lazy" alt=""></a>
+            <a href="https://www.instagram.com/owoappco/" target="_blank" class="w-inline-block"><img src="images/instagram.png" loading="lazy" alt=""></a>
+            <a href="https://www.facebook.com/owoappco/" target="_blank" class="w-inline-block"><img src="images/facebook.png" loading="lazy" alt=""></a>
             <h6 class="seguinos">Síguenos en redes sociales!</h6>
           </div>
         </div>
@@ -164,12 +167,15 @@
           </ul>
         </div>
         <div id="w-node-c87b1627-f9b0-b439-5b2a-cf2622d5652e-22d564ce" class="w-layout-vflex">
-          <ul role="list" class="list">
+          <ul role="list" class="list ul-linkedin-footer">
             <li>
               <a href="contacto.php" class="items-menu">Contacto</a>
             </li>
             <li>
-              <a href="https://www.linkedin.com/company/owo/?originalSubdomain=co" class="items-menu">Owotech</a>
+              <a href="https://www.linkedin.com/company/owo/?originalSubdomain=co" class="items-menu"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="20" height="20" viewBox="0 0 50 50"
+style="fill:#FFFFFF;">
+    <path d="M41,4H9C6.24,4,4,6.24,4,9v32c0,2.76,2.24,5,5,5h32c2.76,0,5-2.24,5-5V9C46,6.24,43.76,4,41,4z M17,20v19h-6V20H17z M11,14.47c0-1.4,1.2-2.47,3-2.47s2.93,1.07,3,2.47c0,1.4-1.12,2.53-3,2.53C12.2,17,11,15.87,11,14.47z M39,39h-6c0,0,0-9.26,0-10 c0-2-1-4-3.5-4.04h-0.08C27,24.96,26,27.02,26,29c0,0.91,0,10,0,10h-6V20h6v2.56c0,0,1.93-2.56,5.81-2.56 c3.97,0,7.19,2.73,7.19,8.26V39z"></path>
+</svg> Owotech</a>
             </li>
           </ul>
           <div class="w-layout-hflex flex-block-6"><img src="images/entrada-blanca.png" loading="lazy" alt="" class="image-55">
@@ -181,8 +187,8 @@
             </li>
           </ul>
           <div class="w-layout-hflex flex-block-7">
-            <a href="https://play.google.com/store/apps/details?id=owo.com.co" class="w-inline-block"><img src="images/play.png" loading="lazy" alt=""></a>
-            <a href="https://apps.apple.com/co/app/owo/id1537247583" class="w-inline-block"><img src="images/aplle.png" loading="lazy" alt=""></a>
+            <a href="https://play.google.com/store/apps/details?id=owo.com.co" target="_blank" class="w-inline-block"><img src="images/play.png" loading="lazy" alt=""></a>
+            <a href="https://apps.apple.com/co/app/owo/id1537247583" target="_blank" class="w-inline-block"><img src="images/aplle.png" loading="lazy" alt=""></a>
           </div>
         </div>
       </div>
@@ -203,3 +209,6 @@
   </section>
   <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=66df17562688b6d820491c3e" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
   <script src="js/webflow.js" type="text/javascript"></script>
+  <a href="https://wa.me/573044476190" target="_blank" title="Whatsapp flotante" class="whatsapp-flotante">
+    <img src="images/whatsapp-flotente.png" alt="Whatsapp flotante">
+  </a>

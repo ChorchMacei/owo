@@ -32,7 +32,7 @@
               <div class="acordeon-text"><strong>¿Cómo puedo ganar dinero?</strong></div>
             </div>
             <nav class="acordeon-dropdown w-dropdown-list">
-              <p class="texto-dropdown _2">Sí, puedes generar ingresos a través de la venta de productos y servicios en nuestra App, regístrate y conoce nuestras comisiones.</p>
+              <p class="texto-dropdown _2">Puedes generar ingresos a través de la venta de productos y servicios en nuestra App, regístrate y conoce nuestras comisiones.</p>
             </nav>
           </div>
         </div>
@@ -65,7 +65,7 @@
               <div class="acordeon-text"><strong>¿Puedo registrarme con otro dispositivo?</strong></div>
             </div>
             <nav class="acordeon-dropdown w-dropdown-list">
-              <p class="texto-dropdown _2">“Si, solo ten en cuenta que este se realice con tu numero personal cuando se solicite”. Nota: Recuerda que el número celular está asociado a los datos de tu cuenta. </p>
+              <p class="texto-dropdown _2">“Si, solo ten en cuenta que este se realice con tu número personal cuando se solicite”. Nota: Recuerda que el número celular está asociado a los datos de tu cuenta. </p>
             </nav>
           </div>
         </div>
@@ -110,7 +110,7 @@
             </div>
             <nav class="acordeon-dropdown w-dropdown-list">
               <p class="texto-dropdown _2">Puedes en contactarnos mediante cualquiera de nuestros canales de comunicación, con gusto atenderemos todas tus preguntas. <a href="mailto:ayuda@owo.com.co  " class="link-16">ayuda@owo.com.co </a> <br>
-                <a href="tel:+57(316)3182882" class="link-17">+57 (316) 318 28 82 </a>
+                <a href="tel:+57(316)3182882" class="link-17">+57 (304) 447 61 90</a>
               </p>
             </nav>
           </div>

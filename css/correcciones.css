@@ -140,6 +140,14 @@ body {position: relative;}
     .cuerpo-onbording-4 {
         width: 100%;
     }
+
+    .fix-mobile-space{
+        margin-top: 10px!important;
+    }
+
+    .acordeon-dropdown {
+        max-width: 100%!important;
+    }
 }
 
 @media screen and (max-height: 668px) {
@@ -169,6 +177,16 @@ body {position: relative;}
 	.cajon-botones {
         margin-top: 120px;
     }	
+}
+
+@media screen and (max-width: 479px) {
+    .texto-dropdown.mobile.home {
+        max-width: 100%!important;
+    }
+
+    .acordeon-text {
+        max-width: 70%;
+    }    
 }
 
 @media (max-width: 1170px) and (min-width: 991px) {
@@ -202,6 +220,10 @@ body {position: relative;}
     .logo-carousel {
         position: absolute;
     }
+
+    .acordeon-icon {
+        margin-top: 24px;
+    }    
 }
 
 .logos-container {
@@ -221,4 +243,35 @@ body {position: relative;}
     100% {
         transform: translateX(-100%);
     }
+}
+
+.ul-linkedin-footer li:nth-child(2){
+    list-style: none;
+}
+
+.ul-linkedin-footer li svg{
+    position: relative;
+    left: 0px;
+    top: 4px;
+}
+
+.ul-linkedin-footer li:nth-child(2) a{
+    position: relative;
+    left: -20px;
+}
+
+.boton-descargar-1{
+    color: white;
+    text-decoration: none;
+}
+
+.link {
+    margin-right: 8%;
+}
+
+.whatsapp-flotante{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999;
 }
