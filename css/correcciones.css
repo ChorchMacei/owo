@@ -275,3 +275,36 @@ body {position: relative;}
     right: 20px;
     z-index: 999;
 }
+
+@media only screen and (min-width: 375px) and (max-width: 767px) {
+    .fix-mobile-space {
+        margin-top: 60px!important;
+    }
+}
+
+@media screen and (min-width: 480px) and (max-width: 991px) {
+    .fix-contacto-p{
+        margin-bottom: 106px;
+    }
+
+    .fix-contacto-titulo{
+        margin-top: -50px;
+    }
+
+    .hide-480-991{
+        display: none!important;
+    }
+
+    .caja-tutilo-seccion-2-general.contacto {
+        margin-top: 0px;
+    }
+}
+
+/* form */
+
+.imputtt {
+    height: 59px;
+    margin-bottom: 29px;
+    font-size: 21px;
+    line-height: 79px;
+}

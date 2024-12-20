@@ -24,8 +24,8 @@
         <div class="w-layout-vflex flex-block-3">
           <p class="paragraph-4 texto-footer">Tu app para ganar dinero pagando tus cuentas, recargar tu móvil, comprar y asegurar tus pertenencias.</p>
           <div class="w-layout-hflex flex-block-4">
-            <a href="https://www.instagram.com/owoappco/" target="_blank" class="w-inline-block"><img src="images/instagram.png" loading="lazy" alt=""></a>
-            <a href="https://www.facebook.com/owoappco/" target="_blank" class="w-inline-block"><img src="images/facebook.png" loading="lazy" alt=""></a>
+            <a href="https://www.instagram.com/owoappco/" target="_blank" class="w-inline-block"><img src="images/newsvg/footer/instagram.svg" loading="lazy" alt=""></a>
+            <a href="https://www.facebook.com/owoappco/" target="_blank" class="w-inline-block"><img src="images/newsvg/footer/facebook.svg" loading="lazy" alt=""></a>
             <h6 class="seguinos">Síguenos en redes sociales</h6>
           </div>        
         </div>
@@ -38,12 +38,12 @@
               <a href="https://www.google.com/maps/place/Cl.+201,+Suba,+Bogotá,+Colombia/@4.7798483,-74.0521841,17z/data=!3m1!4b1!4m6!3m5!1s0x8e3f85e6c18e7125:0x849d792f15ba7b71!8m2!3d4.779843!4d-74.0496092!16s%2Fg%2F11byn09ghb?entry=ttu&amp;g_ep=EgoyMDI0MDkxMC4wIKXMDSoASAFQAw%3D%3D" class="link-8">Bogotá, Bulevar Ofi. 201</a>
             </p>
           </div-->
-          <div class="w-layout-hflex flex-block"><img src="images/Message.png" loading="lazy" width="30" alt="">
+          <div class="w-layout-hflex flex-block"><img src="images/newsvg/footer/Message.svg" loading="lazy" width="30" alt="">
             <p data-figma-id="711:1752" class="ayuda-owo-com-co p-flex-box">
               <a href="mailto:mailto:ayuda@owo.com.co" class="link-9">ayuda@owo.com.co</a>
             </p>
           </div>
-          <div class="w-layout-hflex flex-block"><img style="filter: blur(0.55px) invert(1);" src="images/whatsapp-wider-2.png" loading="lazy" width="25" alt="">
+          <div class="w-layout-hflex flex-block"><img src="images/newsvg/footer/icons8-whatsapp4.svg" loading="lazy" width="25" alt="">
             <p class="paragraph-5 p-flex-box">
               <a href="https://wa.me/573044476190" target="_blank" class="link-10">+57 3044476190</a>
             </p>
@@ -88,7 +88,7 @@ style="fill:#FFFFFF;">
 </svg>  Owotech</a>
             </li>
           </ul>
-          <div class="w-layout-hflex flex-block-6"><img src="images/entrada-blanca.png" loading="lazy" alt="">
+          <div class="w-layout-hflex flex-block-6"><img src="images/newsvg/footer/Login.svg" loading="lazy" alt="">
             <a href="https://aliados.owotech.co/#/owo/account/login" class="paragraph-6">Ingresar</a>
           </div>
           <ul role="list" class="list">
@@ -97,8 +97,8 @@ style="fill:#FFFFFF;">
             </li>
           </ul>
           <div class="w-layout-hflex flex-block-7">
-            <a href="https://play.google.com/store/apps/details?id=owo.com.co" target="_blank" aria-current="page" class="w-inline-block w--current"><img src="images/play.png" loading="lazy" alt=""></a>
-            <a href="https://apps.apple.com/co/app/owo/id1537247583" target="_blank" aria-current="page" class="w-inline-block w--current"><img src="images/aplle.png" loading="lazy" alt=""></a>
+            <a href="https://play.google.com/store/apps/details?id=owo.com.co" target="_blank" aria-current="page" class="w-inline-block w--current"><img src="images/newscg/footer/Vector.svg" loading="lazy" alt=""></a>
+            <a href="https://apps.apple.com/co/app/owo/id1537247583" target="_blank" aria-current="page" class="w-inline-block w--current"><img src="images/newscg/footer/VectorMac.svg" loading="lazy" alt=""></a>
           </div>
         </div>
       </div>
@@ -111,35 +111,34 @@ style="fill:#FFFFFF;">
           <p class="paragraph-4 texto-footer">Tu app para ganar dinero pagando tus cuentas, recargar tu móvil, comprar y asegurar tus pertenencias.</p>
         </div>
         <div id="w-node-c87b1627-f9b0-b439-5b2a-cf2622d564fe-22d564ce" class="div-block-2">
-          <div class="w-layout-hflex flex-block"><img src="images/Home.png" loading="lazy" width="30" alt="">
+          <!--div class="w-layout-hflex flex-block"><img src="images/Home.png" loading="lazy" width="30" alt="">
             <p data-figma-id="711:1742" class="calle-127-70-g-78-regus p-flex-box">Calle 127 # 70 G – 78 Regus</p>
           </div>
           <div class="w-layout-hflex flex-block"><img src="images/Location.png" loading="lazy" width="30" alt="" class="image-54">
             <p data-figma-id="711:1747" class="bogot-bulevar-ofi-201 p-flex-box">
               <a href="https://www.google.com/maps/place/Cl.+201,+Suba,+Bogotá,+Colombia/@4.7798483,-74.0521841,17z/data=!3m1!4b1!4m6!3m5!1s0x8e3f85e6c18e7125:0x849d792f15ba7b71!8m2!3d4.779843!4d-74.0496092!16s%2Fg%2F11byn09ghb?entry=ttu&amp;g_ep=EgoyMDI0MDkxMC4wIKXMDSoASAFQAw%3D%3D" class="link-8">Bogotá, Bulevar Ofi. 201</a>
             </p>
-          </div>
-          <div class="w-layout-hflex flex-block"><img src="images/Message.png" loading="lazy" width="30" alt="">
+          </div-->
+          <div class="w-layout-hflex flex-block"><img src="images/newsvg/footer/Message.svg" loading="lazy" width="30" alt="">
             <p data-figma-id="711:1752" class="ayuda-owo-com-co p-flex-box">
               <a href="mailto:mailto:ayuda@owo.com.co" class="link-9">ayuda@owo.com.co</a>
             </p>
           </div>
-          <div class="w-layout-hflex flex-block"><img src="images/Call-2.png" loading="lazy" width="30" alt="">
+          <div class="w-layout-hflex flex-block"><img src="images/newsvg/footer/Call.svg" loading="lazy" width="30" alt="">
             <p class="paragraph-5 p-flex-box">
-              <a href="https://web.whatsapp.com" target="_blank" class="link-10">+57 3044476190
-                (601) 7704826</a>
+            <a href="https://wa.me/573044476190" target="_blank" class="link-10">+57 3044476190</a>
             </p>
           </div>
           <div class="w-layout-hflex flex-block-4">
-            <a href="https://www.instagram.com/owoappco/" target="_blank" class="w-inline-block"><img src="images/instagram.png" loading="lazy" alt=""></a>
-            <a href="https://www.facebook.com/owoappco/" target="_blank" class="w-inline-block"><img src="images/facebook.png" loading="lazy" alt=""></a>
+            <a href="https://www.instagram.com/owoappco/" target="_blank" class="w-inline-block"><img src="images/newsvg/footer/instagram.svg" loading="lazy" alt=""></a>
+            <a href="https://www.facebook.com/owoappco/" target="_blank" class="w-inline-block"><img src="images/newsvg/footer/facebook.svg" loading="lazy" alt=""></a>
             <h6 class="seguinos">Síguenos en redes sociales!</h6>
           </div>
         </div>
         <div id="w-node-c87b1627-f9b0-b439-5b2a-cf2622d56513-22d564ce" class="w-layout-vflex flex-block-5">
           <ul role="list" class="list">
             <li>
-              <a href="#" class="items-menu">Servicios</a>
+              <a href="#" class="items-menu">Productos</a>
             </li>
           </ul>
           <ul role="list" class="list-2">
@@ -178,7 +177,7 @@ style="fill:#FFFFFF;">
 </svg> Owotech</a>
             </li>
           </ul>
-          <div class="w-layout-hflex flex-block-6"><img src="images/entrada-blanca.png" loading="lazy" alt="" class="image-55">
+          <div class="w-layout-hflex flex-block-6"><img src="images/newsvg/footer/Login.svg" loading="lazy" alt="" class="image-55">
             <a href="https://aliados.owotech.co/#/owo/account/login" class="paragraph-6">Ingresar</a>
           </div>
           <ul role="list" class="list">
@@ -187,8 +186,8 @@ style="fill:#FFFFFF;">
             </li>
           </ul>
           <div class="w-layout-hflex flex-block-7">
-            <a href="https://play.google.com/store/apps/details?id=owo.com.co" target="_blank" class="w-inline-block"><img src="images/play.png" loading="lazy" alt=""></a>
-            <a href="https://apps.apple.com/co/app/owo/id1537247583" target="_blank" class="w-inline-block"><img src="images/aplle.png" loading="lazy" alt=""></a>
+            <a href="https://play.google.com/store/apps/details?id=owo.com.co" target="_blank" class="w-inline-block"><img src="images/newsvg/footer/Vector.svg" loading="lazy" alt=""></a>
+            <a href="https://apps.apple.com/co/app/owo/id1537247583" target="_blank" class="w-inline-block"><img src="images/newsvg/footer/VectorMac.svg" loading="lazy" alt=""></a>
           </div>
         </div>
       </div>
