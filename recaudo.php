@@ -67,7 +67,7 @@
   </section>
   <h4 class="h4-descarga">Descarga para</h4>
   <div class="w-layout-blockcontainer contenedor-de-qr-chico w-container">
-    <div class="w-layout-vflex cajita-qr-chicos"><img src="images/boton-app-store.png" loading="lazy" width="142" alt="app"><img src="images/qr-apple.png" loading="lazy" width="108" alt="qr para descargar desde apple store, la app
+    <div class="w-layout-vflex cajita-qr-chicos"><img src="images/boton-app-store2.svg" loading="lazy" width="142" alt="app"><img src="images/qr-apple.png" loading="lazy" width="108" alt="qr para descargar desde apple store, la app
 "></div>
     <div class="w-layout-vflex cajita-qr-chicos"><img src="images/boton-gogle-play-nuevo.svg" loading="lazy" alt=""><img src="images/qr-play.png" loading="lazy" width="108" alt=""></div>
   </div>

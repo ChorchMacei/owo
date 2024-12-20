@@ -76,7 +76,7 @@
               <div class="acordeon-text"><strong class="bold-text-10">No he podido terminar el reconocimiento facial ¿qué hago?</strong></div>
             </div>
             <nav class="acordeon-dropdown w-dropdown-list">
-              <p class="texto-dropdown _2">Para que no tengas problemas al momento de escanear tu documento, ten en cuenta estos tips: <br>Realizar el paso a paso que te indica el proceso de la Biometría. Evita elementos ajenos como (gafas, bufanda, tapabocas) que impidan el registro de tu rostro. <br>Que encuentres un lugar con buena iluminación. <br>De ser necesario limpiar la cámara del teléfono. <br>Que la conexión a internet sea estable. Prueba con Wifi y luego con datos, pero no activados ambos al mismo tiempo. Verifica que tengas la última versión de la APP. <br>Si es necesario, inténtalo desde otro dispositivo con mejor cámara. <br>Si aún no lo logras puedes escribirnos a la linea de WhatsApp <a href="tel:3163182882" class="link-15">3163182882</a> o <a href="mailto:ayuda@owotech.co" class="link-14">ayuda@owotech.co</a> y podemos ayudarte.” </p>
+              <p class="texto-dropdown _2">Para que no tengas problemas al momento de escanear tu documento, ten en cuenta estos tips: <br>Realizar el paso a paso que te indica el proceso de la Biometría. Evita elementos ajenos como (gafas, bufanda, tapabocas) que impidan el registro de tu rostro. <br>Que encuentres un lugar con buena iluminación. <br>De ser necesario limpiar la cámara del teléfono. <br>Que la conexión a internet sea estable. Prueba con Wifi y luego con datos, pero no activados ambos al mismo tiempo. Verifica que tengas la última versión de la APP. <br>Si es necesario, inténtalo desde otro dispositivo con mejor cámara. <br>Si aún no lo logras puedes escribirnos a la linea de WhatsApp <a href="tel:3163182882" class="link-15">3163182882</a> o <a href="mailto:ayuda@owotech.co" class="link-14">ayuda@owotech.co</a> y podemos ayudarte.</p>
             </nav>
           </div>
         </div>
@@ -117,7 +117,7 @@
         </div>
       </div>
     </div>
-    <a href="index.html" class="boton-leer-mas politica-tablet w-inline-block">
+    <a href="index.php" class="boton-leer-mas politica-tablet w-inline-block">
       <p class="paragraph-19">Volver</p>
     </a>
     <div class="boton-volver-mio">

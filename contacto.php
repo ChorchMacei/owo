@@ -7,8 +7,8 @@
   <img src="images/burbuja-naranja-derecha.png" loading="lazy" alt="" class="image-70">
   <div class="w-layout-blockcontainer contenedor-h1-foto-contacto contacto-tablet contacto-mobile-2 w-container">
     <h1 class="heading-9">Entérate de nuestras últimas novedades</h1>
-    <h3 class="caja-tutilo-seccion-2-general contacto contactomobile-1">Hola!</h3>
-    <p class="caja-subtitulo-seccion-2-general-2 _2">Enterate de nuestras últimas novedades</p>
+    <h3 class="caja-tutilo-seccion-2-general contacto contactomobile-1 hide-480-991">Hola!</h3>
+    <p class="caja-subtitulo-seccion-2-general-2 _2 hide-480-991">Enterate de nuestras últimas novedades</p>
   </div>
   <div class="w-layout-blockcontainer contenedor-preguntas-frecuentes w-container">
     <div class="form-block-3 w-form">
@@ -16,8 +16,8 @@
         <div class="div-block-10 int"><img src="images/Business.png" loading="lazy" width="262" alt="mujer con tablet dibujo" class="image-32 mobile _430 div-block-9"></div>
         <div class="w-layout-blockcontainer contenedor-h1-foto-contacto contacto-tablet contacto-mobile-2 otro w-container">
           <!--h1 class="heading-9">Entérate de nuestras últimas novedades</h1-->
-          <h3 class="caja-tutilo-seccion-2-general contacto contactomobile-1">Hola!</h3>
-          <p class="caja-subtitulo-seccion-2-general-2 _2">Enterate de nuestras últimas novedades</p>
+          <h3 class="caja-tutilo-seccion-2-general contacto contactomobile-1 fix-contacto-titulo">Hola!</h3>
+          <p class="caja-subtitulo-seccion-2-general-2 _2 fix-contacto-p">Enterate de nuestras últimas novedades</p>
         </div>
         <div class="div-block-9"><input class="imput-email w-input" maxlength="256" name="email" data-name="Email" placeholder="Tu email" type="email" id="email" required=""><label class="w-checkbox"><input type="checkbox" name="By-clicking-the-button-you-consent-to-processing-of-your-personal-data" id="By-clicking-the-button-you-consent-to-processing-of-your-personal-data" data-name="By clicking the button you consent to processing of your personal data." required="" class="w-checkbox-input checkbox"><span class="checkbox-label w-form-label" for="By-clicking-the-button-you-consent-to-processing-of-your-personal-data">Al hacer clic en el botón usted acepta el procesamiento de sus datos personales.</span></label></div>
       </form>
@@ -53,7 +53,7 @@
         </div>
         <div id="w-node-_07c28fd9-fffd-c26a-eef8-a7cd7ed16219-496694cb" class="w-layout-cell furmulario-completo">
           <div class="form-block-2 w-form">
-            <form id="email-form-2" name="email-form-2" data-name="Email Form 2" method="get" class="form-2" data-wf-page-id="66fcbbb160e1eb88496694cb" data-wf-element-id="cab13a9c-d235-58ae-eaff-703d14627662"><input class="imputtt w-input" maxlength="256" name="name" data-name="Name" placeholder="Nombre" type="text" id="name" required=""><input class="imputtt w-input" maxlength="256" name="email-2" data-name="Email 2" placeholder="Tu email" type="email" id="email-2" required=""><input class="imputtt w-input" maxlength="256" name="de-movil" data-name="# de movil" placeholder="# de móvil" type="text" id="de-movil" required=""><input class="imputtt w-input" maxlength="256" name="compania" data-name="compania" placeholder="Compañia" type="text" id="compania" required=""><textarea placeholder="Mensaje" maxlength="5000" id="mensaje" name="mensaje" data-name="mensaje" class="imputtt w-input"></textarea><input type="submit" data-wait="Please wait..." class="submit-button-2 w-button" value="Enviar"></form>
+            <form id="email-form-2" name="email-form-2" data-name="Email Form 2" method="get" class="form-2" data-wf-page-id="66fcbbb160e1eb88496694cb" data-wf-element-id="cab13a9c-d235-58ae-eaff-703d14627662"><input class="imputtt w-input" maxlength="256" name="name" data-name="Name" placeholder="Nombre" type="text" id="name" required=""><input class="imputtt w-input" maxlength="256" name="email-2" data-name="Email 2" placeholder="Tu email" type="email" id="email-2" required=""><input class="imputtt w-input" maxlength="256" name="de-movil" data-name="# de movil" placeholder="# de móvil" type="text" id="de-movil" required=""><input class="imputtt w-input" maxlength="256" name="compania" data-name="compania" placeholder="Compañía" type="text" id="compania" required=""><textarea placeholder="Mensaje" maxlength="5000" id="mensaje" name="mensaje" data-name="mensaje" class="imputtt w-input"></textarea><input type="submit" data-wait="Please wait..." class="submit-button-2 w-button" value="Enviar"></form>
             <div class="success-message-2 w-form-done">
               <div>Gracias su comentario fue enviado</div>
             </div>

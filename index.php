@@ -36,61 +36,61 @@
           <div class="contenedor-acordeon-preguntas">
             <div data-hover="false" data-delay="0" data-w-id="6af4a283-c8a1-b246-55a4-a820d1ff9faa" style="height:67px" class="acordeon w-dropdown">
               <div class="acordeon-toggle w-dropdown-toggle">
-                <img src="images/Ticket.png" loading="lazy" alt="">
+                <img src="images/newsvg/Ticket.svg" loading="lazy" alt="">
                 <div class="acordeon-text">Apuestas deportivas</div>
                 <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" class="acordeon-icon w-icon-dropdown-toggle"></div>
               </div>
               <nav class="acordeon-dropdown w-dropdown-list">
                 <p class="texto-dropdown mobile home">¿Quieres ganar gracias a tu equipo?  <span class="text-span-3">Únete al OWORLD</span> y entérate de los principales eventos deportivos del día y las mejores cuotas del mercado.</p>
-                <a href="apuestas-deportivas.html" class="link">¡Quiero saber más!</a>
+                <a href="apuestas-deportivas.php" class="link">¡Quiero saber más!</a>
               </nav>
             </div>
           </div>          
           <div class="contenedor-acordeon-preguntas">
             <div data-hover="false" data-delay="0" data-w-id="850f7f76-a978-5f7d-b51a-a6d46831912c" style="height:67px" class="acordeon w-dropdown">
               <div class="acordeon-toggle w-dropdown-toggle">
-                <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" class="acordeon-icon w-icon-dropdown-toggle"></div><img src="images/Chances.png" loading="lazy" alt="">
+                <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" class="acordeon-icon w-icon-dropdown-toggle"></div><img src="images/newsvg/Star.svg" loading="lazy" alt="">
                 <div class="acordeon-text">Chance</div>
               </div>
               <nav class="acordeon-dropdown w-dropdown-list">
                 <p class="texto-dropdown mobile home">Vende Chance desde tu celu de manera fácil y rápida con la <span class="text-span-3">garantía de Acertemos</span> en todo el territorio del Cauca (Excepto Popayán)</p>
-                <a href="chance.html" class="link">¡Quiero saber más!</a>
+                <a href="chance.php" class="link">¡Quiero saber más!</a>
               </nav>
             </div>
           </div>
           <div class="contenedor-acordeon-preguntas">
             <div data-hover="false" data-delay="0" data-w-id="5d409446-2333-471d-6d3c-d42af0fdb343" style="height:67px" class="acordeon w-dropdown">
               <div class="acordeon-toggle w-dropdown-toggle">
-                <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" class="acordeon-icon w-icon-dropdown-toggle"></div><img src="images/Call.png" loading="lazy" alt="">
+                <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" class="acordeon-icon w-icon-dropdown-toggle"></div><img src="images/newsvg/Call.svg" loading="lazy" alt="">
                 <div class="acordeon-text">Recargas</div>
               </div>
               <nav class="acordeon-dropdown w-dropdown-list">
                 <p class="texto-dropdown mobile home">Realiza recargas a cualquier operador con nuestros paquetes de voz y navegación desde tan solo 1000 pesos.<br> Y lo mejor: <span class="text-span-3">¡Sin tarjetas de crédito!</span></p>
-                <a href="recargas.html" class="link">¡Quiero saber más!</a>
+                <a href="recargas.php" class="link">¡Quiero saber más!</a>
               </nav>
             </div>
           </div>
           <div class="contenedor-acordeon-preguntas">
             <div data-hover="false" data-delay="0" data-w-id="25cf7f3c-0a0d-c76a-41ec-54153bc88c39" style="height:67px" class="acordeon w-dropdown">
               <div class="acordeon-toggle w-dropdown-toggle">
-                <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" class="acordeon-icon w-icon-dropdown-toggle"></div><img src="images/Game.png" loading="lazy" alt="">
+                <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" class="acordeon-icon w-icon-dropdown-toggle"></div><img src="images/newsvg/Game.svg" loading="lazy" alt="">
                 <div class="acordeon-text">Pines</div>
               </div>
               <nav class="acordeon-dropdown w-dropdown-list">
                 <p class="texto-dropdown mobile home">¿Videojuegos, música, series o películas? Compra tus pines y no te desconectes de tus plataformas favoritas. <span class="text-span-3">Con OWO tienes la diversión asegurada.</span></p>
-                <a href="pines.html" class="link">¡Quiero saber más!</a>
+                <a href="pines.php" class="link">¡Quiero saber más!</a>
               </nav>
             </div>
           </div>                    
           <div class="contenedor-acordeon-preguntas">
             <div data-hover="false" data-delay="0" data-w-id="e3bdf08b-eb6c-caf3-3195-0e972b422f67" style="height:67px" class="acordeon w-dropdown">
               <div class="acordeon-toggle w-dropdown-toggle">
-                <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" class="acordeon-icon w-icon-dropdown-toggle"></div><img src="images/Wallet.png" loading="lazy" alt="">
+                <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" class="acordeon-icon w-icon-dropdown-toggle"></div><img src="images/newsvg/Wallet.svg" loading="lazy" alt="">
                 <div class="acordeon-text">Recaudos</div>
               </div>
               <nav class="acordeon-dropdown w-dropdown-list">
                 <p class="texto-dropdown mobile home">Facturas de telefonía e internet, servicios públicos, recaudos de ventas por catálogo, aseguradoras, impuestos, y mucho más!. <span class="text-span-3">Todos los pagos en un solo lugar. </span></p>
-                <a href="recaudo.html" class="link">¡Quiero saber más!</a>
+                <a href="recaudo.php" class="link">¡Quiero saber más!</a>
               </nav>
             </div>
           </div>
@@ -106,7 +106,7 @@
       <h2 class="h2-descarga">Descarga la App y <span class="text-span-4">empieza a ganar comisiones</span></h2>
       <h4 class="h4-descarga home-descarga">Descarga para</h4>
       <div id="w-node-_92f0e5bc-11c8-6003-b287-c5176edab789-20491c45" class="w-layout-layout contenedor-qr wf-layout-layout">
-        <div class="w-layout-cell qr-apple"><img src="images/boton-app-store.png" loading="lazy" width="250" alt="app"><img src="images/qr-apple.png" loading="lazy" width="108" alt="qr para descargar desde apple store, la app
+        <div class="w-layout-cell qr-apple"><img src="images/boton-app-store2.svg" loading="lazy" width="250" alt="app"><img src="images/qr-apple.png" loading="lazy" width="108" alt="qr para descargar desde apple store, la app
 "></div>
         <div class="w-layout-cell qr-play"><img src="images/boton-gogle-play-nuevo.svg" loading="lazy" alt=""><img src="images/qr-play.png" loading="lazy" width="108" alt=""></div>
       </div>
@@ -142,7 +142,7 @@
       <a href="onbording.html" class="boton-descargar-1 _3 w-inline-block">Descargar&nbsp;<?php echo $flechadescargabtn; ?></a>
       <h4 class="h4-descarga">Descarga para</h4>
       <div class="w-layout-blockcontainer contenedor-de-qr-chico w-container">
-        <div class="w-layout-vflex cajita-qr-chicos"><img src="images/boton-app-store.png" loading="lazy" width="142" alt="app"><img src="images/qr-apple.png" loading="lazy" width="108" alt="qr para descargar desde apple store, la app
+        <div class="w-layout-vflex cajita-qr-chicos"><img src="images/boton-app-store2.svg" loading="lazy" width="142" alt="app"><img src="images/qr-apple.png" loading="lazy" width="108" alt="qr para descargar desde apple store, la app
 "></div>
         <div class="w-layout-vflex cajita-qr-chicos"><img src="images/boton-gogle-play-nuevo.svg" loading="lazy" alt=""><img src="images/qr-play.png" loading="lazy" width="108" alt=""></div>
       </div>
