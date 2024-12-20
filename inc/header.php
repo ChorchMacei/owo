@@ -9,6 +9,16 @@
   <link href="css/webflow.css" rel="stylesheet" type="text/css">
   <link href="css/owo-4205d0.webflow.css" rel="stylesheet" type="text/css">
   <link href="css/correcciones.css" rel="stylesheet" type="text/css">
+  <script>
+        // Detect Safari
+        var isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
+        if (isSafari) {
+            var link = document.createElement('link');
+            link.rel = 'stylesheet';
+            link.href = 'css/safari.css';
+            document.head.appendChild(link);
+        }
+  </script>
   <link href="https://fonts.googleapis.com" rel="preconnect">
   <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous">
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
